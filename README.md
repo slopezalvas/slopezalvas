@@ -7,6 +7,7 @@
 [![Sofia's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/slopezalvas/github-readme-stats)
 
 ![](https://dcbadge.vercel.app/api/shield/345660094467276800)
+![Profile views](https://gpvc.arturio.dev/slopezalvas)
 <!--
 **slopezalvas/slopezalvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
