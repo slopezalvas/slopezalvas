@@ -2,6 +2,11 @@
 
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/slopezalvas?tab=followers)
+
+[![Sofia's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/slopezalvas/github-readme-stats)
+
+![](https://dcbadge.vercel.app/api/shield/345660094467276800)
 <!--
 **slopezalvas/slopezalvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
