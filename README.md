@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
+
 <!--
 **slopezalvas/slopezalvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
