@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slopezalvas&label=Profile%20views&color=0e75b6&style=flat" alt="slopezalvas" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nyia_" target="blank"><img src="https://img.shields.io/twitter/follow/nyia_?logo=twitter&style=for-the-badge" alt="nyia_" /></a> </p>
+
 
 - 🔭 I’m currently working on [Valkimia](https://www.valkimia.com/)
 
 - 🌱 I’m currently learning **Python + AWS**
 
-- 📫 How to reach me **slopezalvas@gmail.com**
+- 📫 How to reach me 
+  <p align="left"> <a href="slopezalvas@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sofialopez" /></a> 
+   <a href="discordapp.com/users/nylachikita" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)" alt="sofialopez" /></a> </p>
 
 - ⚡ Fun fact **I'm a content creator of League of Legends (I make memes 😂)**
 
