@@ -11,13 +11,12 @@
 
 - 📫 How to reach me 
   <p align="left"> <a href="slopezalvas@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sofialopez" /></a> 
-   <a href="discordapp.com/users/nylachikita" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)" alt="sofialopez" /></a> </p>
+   <a href="discordapp.com/users/nyla_gg" target="blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)" alt="sofialopez" /></a> </p>
 
-- ⚡ Fun fact **I'm a content creator of League of Legends (I make memes 😂)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nyia_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyia_" height="30" width="40" /></a>
+<a href="https://twitter.com/nyla__gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nyia_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sofia-lopez-alvas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sofia-lopez-alvas" height="30" width="40" /></a>
 <a href="https://instagram.com/nyla_gg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="notnyla_" height="30" width="40" /></a>
 </p>
